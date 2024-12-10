@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Svea-MLM", "Svea-MLM\Svea-MLM.csproj", "{55DE5D23-ADAC-463B-AB6F-0614AB994796}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLM.Service", "MLM.Service\MLM.Service.csproj", "{2696ED89-39FC-4DD0-B32A-13569B783478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLM.Service.Tests", "MLM.Service.Tests\MLM.Service.Tests.csproj", "{47DD8E35-ED91-447E-B9B7-4A0FD3ACF3BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2696ED89-39FC-4DD0-B32A-13569B783478}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2696ED89-39FC-4DD0-B32A-13569B783478}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2696ED89-39FC-4DD0-B32A-13569B783478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47DD8E35-ED91-447E-B9B7-4A0FD3ACF3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DD8E35-ED91-447E-B9B7-4A0FD3ACF3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DD8E35-ED91-447E-B9B7-4A0FD3ACF3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DD8E35-ED91-447E-B9B7-4A0FD3ACF3BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
