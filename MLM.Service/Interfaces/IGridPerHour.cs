@@ -1,4 +1,4 @@
-﻿using MLM.Service.Models;
+using MLM.Service.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,3 +13,5 @@ namespace MLM.Service.Interfaces
         public List<Person> Persons { get; set; }
     }
 }
+
+
