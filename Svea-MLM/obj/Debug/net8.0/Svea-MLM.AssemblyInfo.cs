@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Svea-MLM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cd33073fe1ba35ae462d46f5225766df1203842")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e7cefec360fb491bd3b68b2582734df862c1bd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Svea-MLM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Svea-MLM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
