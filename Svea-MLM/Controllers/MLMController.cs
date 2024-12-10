@@ -18,9 +18,9 @@ namespace Svea_MLM.Controllers
       [HttpGet("get")]
       public ActionResult Get([FromQuery] int columns, [FromQuery] int rows, [FromQuery] int totalRuns)
       {
-          if (columns <= 0 || rows <= 0 || totalRuns <= 0)
+          if (columns <= 2 || rows <= 2 || totalRuns <= 0)
           {
-              return BadRequest("Invalid length, width or total runs.");
+              return BadRequest("Invalid columns length, row length or total simulations.");
           }
 
           var result = salesmanService.SimulateMLM(columns, rows, totalRuns);
