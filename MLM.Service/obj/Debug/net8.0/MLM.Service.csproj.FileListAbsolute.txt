@@ -1,0 +1,13 @@
+C:\Users\pirre\source\repos\Svea-MLM\MLM.Service\bin\Debug\net8.0\MLM.Service.deps.json
+C:\Users\pirre\source\repos\Svea-MLM\MLM.Service\bin\Debug\net8.0\MLM.Service.dll
+C:\Users\pirre\source\repos\Svea-MLM\MLM.Service\bin\Debug\net8.0\MLM.Service.pdb
+C:\Users\pirre\source\repos\Svea-MLM\MLM.Service\obj\Debug\net8.0\MLM.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pirre\source\repos\Svea-MLM\MLM.Service\obj\Debug\net8.0\MLM.Service.AssemblyInfoInputs.cache
+C:\Users\pirre\source\repos\Svea-MLM\MLM.Service\obj\Debug\net8.0\MLM.Service.AssemblyInfo.cs
+C:\Users\pirre\source\repos\Svea-MLM\MLM.Service\obj\Debug\net8.0\MLM.Service.csproj.CoreCompileInputs.cache
+C:\Users\pirre\source\repos\Svea-MLM\MLM.Service\obj\Debug\net8.0\MLM.Service.dll
+C:\Users\pirre\source\repos\Svea-MLM\MLM.Service\obj\Debug\net8.0\refint\MLM.Service.dll
+C:\Users\pirre\source\repos\Svea-MLM\MLM.Service\obj\Debug\net8.0\MLM.Service.pdb
+C:\Users\pirre\source\repos\Svea-MLM\MLM.Service\obj\Debug\net8.0\ref\MLM.Service.dll
+C:\Users\pirre\source\repos\Svea-MLM\MLM.Service\obj\Debug\net8.0\MLM.Service.csproj.AssemblyReference.cache
+C:\Users\pirre\source\repos\Svea-MLM\MLM.Service\obj\Debug\net8.0\MLM.Service.sourcelink.json

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Svea_MLM.Controllers.MLMController",
+    "Method": "Get",
+    "RelativePath": "api/MLM/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "columns",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "rows",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "totalRuns",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
