@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MLM.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78659aa2dfb4dfb043ac7443a1019abd48e25898")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06e31ea019b763d74458a9bae3b4b11e4e9667cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("MLM.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MLM.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
